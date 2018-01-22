@@ -3,7 +3,7 @@
 > 音乐播放器
 
 # 预览图片
-![image](https://github.com/Luanma01/vuemusic/raw/master/src/common/image/1.png)
+![image](https://github.com/luanma01/vue-songs/blob/master/src/common/image/1.png)
 
 ## Build Setup
 
